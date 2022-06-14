@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Water+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+
+main{background-image:linear-gradient(to right,#F8C4C8,#C28DB8,#EC6383) ;
+    text-align: center;
+    width: 1500px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 15px;
+    border:5px dotted #E6DFDF
+}
+
+body{background-image:url("imagensgerais/sakuraplanodefundo.jpg") ;
+    font-family: 'Sacramento', cursive;
+font-size: 40px;
+text-align: justify;}
+
+h3{text-shadow: 5px 5px 5px black;
+color:black
+}
+
+h3{font-family: 'Moon Dance', cursive;
+font-size: 50px;}
+
+h1{font-size: 60px;
+color:#9170A1
+}
+
+header{text-align: center;
+}
+
+header>h1{font-family: 'Water Brush', cursive;}
+
+nav>a{margin-right:30px ;
+font-size: 50px;}
+
+a:visited{color:#F54860}
+
+a:hover{color:#DE35A0}
+
+a{color:#DC80A8}
+
+a{font-family: 'Cookie', cursive;}
+
+
+
+
+CSS TABELA
+
+section#tab1{text-align: center;}
+
+
+td,th{border:2px dotted black;
+}
+th{text-align: center;}
+
+thead, tfoot{
+text-align: center;
+border:2px solid black;}
+
+tbody{text-align: left;
+font-size: 30px;
+color:black;
+border: 2px solid white;}
+
+
+
+
+
+
+
